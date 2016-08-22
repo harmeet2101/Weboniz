@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Webonize</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="autocomplete_hint">Search place within 500m radius</string>
+    <string name="search_button_text">Search</string>
+    <string name="photos_empty_textview">No images found</string>
+    <string name="empty_places_list_textview">No Data Found</string>
+</resources>
